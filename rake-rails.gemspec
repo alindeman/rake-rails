@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "rake-rails"
   gem.require_paths = ["lib"]
   gem.version       = Rake::Rails::VERSION
+
+  gem.add_dependency "rake"
 end

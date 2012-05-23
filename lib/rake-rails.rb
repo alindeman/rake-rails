@@ -1,6 +1,2 @@
 require "rake-rails/version"
-
-module Rake
-  module Rails
-  end
-end
+require "rake-rails/railtie" if defined?(Rails)
