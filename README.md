@@ -1,4 +1,4 @@
-# Rake::Rails
+# rake-rails
 
 Reduces the confusion for newcomers by allowing `rails` commands to be run via
 `rake`. Inspiration from [@j3](http://twitter.com/j3).
